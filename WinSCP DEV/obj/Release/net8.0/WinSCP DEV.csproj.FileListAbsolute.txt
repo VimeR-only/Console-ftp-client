@@ -1,0 +1,18 @@
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP.exe
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP DEV.exe
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP DEV.deps.json
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP DEV.runtimeconfig.json
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP DEV.dll
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCP DEV.pdb
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\bin\Release\net8.0\WinSCPnet.dll
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.csproj.AssemblyReference.cache
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.AssemblyInfoInputs.cache
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.AssemblyInfo.cs
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.csproj.CoreCompileInputs.cache
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.csproj.Up2Date
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.dll
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\refint\WinSCP DEV.dll
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.pdb
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\WinSCP DEV.genruntimeconfig.cache
+C:\Users\vimer\c# DEV\WinSCP DEV\WinSCP DEV\obj\Release\net8.0\ref\WinSCP DEV.dll

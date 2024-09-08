@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPHT6mlbXiA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vimer\\c# DEV\\WinSCP DEV\\WinSCP DEV\\WinSCP DEV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimer\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\vimer\\.nuget\\packages\\winscp\\6.3.4\\winscp.6.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\Users\vimer\Downloads\test\WinSCP DEV.pdb
+C:\Users\vimer\Downloads\test\WinSCP.exe
+C:\Users\vimer\Downloads\test\WinSCP DEV.exe

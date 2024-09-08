@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BY1S815zjtc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vimer\\c# DEV\\WinSCP DEV\\WinSCP DEV\\WinSCP DEV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimer\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\vimer\\.nuget\\packages\\winscp\\6.3.4\\winscp.6.3.4.nupkg.sha512",
+    "C:\\Users\\vimer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\vimer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\vimer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
